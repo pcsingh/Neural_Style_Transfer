@@ -9,11 +9,11 @@ This is a Deep Learning model which will help you to transfer an style into your
 
 Output after 1000 iterations
 
-![output image](images/output.png)
+<img src="images/output.png" width="200">
 
 ## How you can use
 
-You can also use this model to train your own style and content images. I am supposing that you know about the [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). First fork the repo from top right corner. Clone it using your cli tool. Go to the Google Colab or your local Jupyter Notebook and open `NST.ipynb` file.
+You can use this model to transfer your favourite style on your content image. I am supposing that you know about the [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb). First fork the repo from top right corner. Clone it using your cli tool. Go to the Google Colab or your local Jupyter Notebook and open `NST.ipynb` file.
 
 Make small changes assign position of your style and content file to variables `style` and `content` in the second cell of notebook.
 ```python
