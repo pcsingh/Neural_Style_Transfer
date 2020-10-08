@@ -22,5 +22,6 @@ content = 'your_content_image'
 ```
 
 Hurray! You are ready to see the output of the model. Run all the cells.
+You can also experiment with the style and content images given in the `images` folder.
 
 > **_Need help? feel free to contact @ [premchandra.singh.5268@gmail.com](mailto:premchandra.singh.5268@gmail.com?Subject=Neural_Style_Transfer)_**
